@@ -295,11 +295,11 @@ void stuff()
   textSize(15);
   if(auto==1)
   {
-    text("Auto Mode: ON,  press q to toggle"+control,20,20);
+    text("Auto Mode: ON,  press q to toggle"+getTo+" "+isAt,20,20);
   }
   else
   {
-    text("Auto Mode: OFF, press q to toggle"+control,20,20);
+    text("Auto Mode: OFF, press q to toggle"+getTo+" "+isAt,20,20);
   }
 }
 
