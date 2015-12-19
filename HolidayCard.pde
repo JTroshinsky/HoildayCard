@@ -199,7 +199,7 @@ void draw()
     {
       if(getTo==0)
       {
-        getTo=int(random(40,500));
+        getTo=int(random(40.0,500.0));
       }
       System.out.println(getTo);
       if(isAt>=getTo)
