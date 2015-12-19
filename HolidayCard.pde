@@ -6,7 +6,7 @@ int control=1;
 int sunX=50;
 int snow=0;
 //Auto variabels--------------
-int auto=0;
+int auto=1;
 int isAt=0;
 int getTo=0;
 int direction=0;
