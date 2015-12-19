@@ -163,6 +163,8 @@ void draw()
     } else
     {
       liftY=185;
+      getTo=0;
+      isAt=0;
       control=3;
     }
     image(lift, skierX, skierY-5);
