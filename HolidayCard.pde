@@ -201,7 +201,6 @@ void draw()
       {
         getTo=int(random(40.0,500.0));
       }
-      System.out.println(getTo);
       if(isAt>=getTo)
       {
         drop=true;
