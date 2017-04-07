@@ -34,7 +34,7 @@ void setup()
   img1=loadImage("http://i.imgur.com/9Ap4ssu.jpg");
   img2=loadImage("http://i.imgur.com/QoYodMj.jpg");
   lift=loadImage("http://i.imgur.com/QgFJRfy.png");
-  tree=loadImage("http://i.imgur.com/ACdd5lE.png");
+  tree=loadImage("http://i.imgur.com/ESIQYi0.png");
   house=loadImage("http://i.imgur.com/kMdWz1N.png");
   eLift=loadImage("http://i.imgur.com/13JG4YM.png");
 
